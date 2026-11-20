@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+xarray
+nrlmsise00[dataset]
+spaceweather
+cartopy
+notebook
